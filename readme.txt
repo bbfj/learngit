@@ -1,2 +1,2 @@
-Git is so fun
+Git is really so fun
 Git is good
